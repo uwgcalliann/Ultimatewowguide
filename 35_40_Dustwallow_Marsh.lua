@@ -3,6 +3,8 @@ function Guide:Initialize()
 	function Guide:Load()DugisGuideViewer:RegisterGuide("|cfff0c502Kalimdor|r ", "141(34-39 |cfff0c502Lore|r)#141(35-41 |cfff0c502Lore|r)#141(36-42 |cfff0c502Lore|r)", "61(39-44 |cfff0c502Lore|r)#61(40-46 |cfff0c502Lore|r)#61(41-47 |cfff0c502Lore|r)", "Horde", "L", nil, function()
 return [[
 
+N Please Read!!! |QID|27254| |N|Go to Theramore and follow the bridge on the west side of there to (55.90, 49.50). At these coordinates, you will see an NPC named Zidormi. Speak to her and tell her you want to see Theramore before the fall. Easy as that, you travel back in time and now you are able to complete the required 60 quests so you can receive the Loremaster Kalimdor achievement and if like me, you have completed the Loremaster achievements in ALL OTHER ZONES, you receive your title and colors.
+Then return to speak with Zidormi and ask her to return you to the present. Tick this step.|
 R Booty Bay |N|Travel to Booty Bay (39, 68.4)| |QID|26696| |Z|673| |O| |MAP|673, 26, 37|
 A The Call of Kalimdor |N|Gim'hila (39, 68.4)| |QID|26696| |Z|673| |O| |NPC|48797| |MAP|673|
 
@@ -39,8 +41,8 @@ T The Black Shield (Part 2) |QID|27255| |N|Do'gol (36.52, 30.84) in Brackenwall 
 A The Black Shield (Part 3) |QID|27256| |N|Do'gol (36.52, 30.84) in Brackenwall Village| |NPC|5087|
 A Talk to Ogron |QID|27306| |N|Krog (36.39, 31.84) in Brackenwall Village| |NPC|4926|
 
-T Talk to Ogron |QID|27306| |N|Ogron (40.90, 36.63)| |NPC|4983|
-A Questioning Reethe |QID|27261| |N|Ogron (40.90, 36.63)| |NPC|4983|
+T Talk to Ogron |QID|27306| |N|Ogron (40.90, 36.63) in Dustwallow Marsh| |NPC|4983|
+A Questioning Reethe |QID|27261| |N|Ogron (40.90, 36.63) in Dustwallow Marsh| |NPC|4983|
 C Questioning Reethe |QID|27261.1| |N|Go with Ogron to speak with Reethe (42.56, 38.00)| |NPC|4980|
 
 R Brackenwall Village |N|Travel to Brackenwall Village (35.51, 30.18)| |QID|27258|
@@ -53,11 +55,6 @@ C A Shambling Threat |QID|26682.1| |N|Kill 7 Withervine Creepers or Withervine R
 R North Point Tower |N|Travel to North Point Tower (46.64, 24.51)| |QID|9437|
 N [Dawn Runner Cargo] |QID|9437.2| |N|Collect the [Dawn Runner Cargo] from the top of the North Point Tower (46.64, 24.51)| |T| |OBJ|36|
 C Twilight of the Dawn Runner |QID|9437.1| |N|Rescue Ithania, she's at the bottom of the tower (46.64, 24.51) North Point Tower| |NPC|17119|
-
-R Blackhoof Village |N|Travel to Blackhoof Village (42.23, 13.61)| |QID|27293|
-C More than Coincidence |QID|27294.1| |N|Collect 7 [Blackhoof Armaments] found around Blackhoof Village (40.70, 12.54)| |OBJ|7425|
-N 4 [Grimtotem Note] |N|Collect 4 [Grimtotem Notes] from Grimtotem Elders for The Grimtotem Plot (42.23, 13.61)| |T| |L|33050 4| |QID|27293| |NPC|23714|
-C The Grimtotem Plot |QID|27293.1| |N|Combine 4 [Grimtotem Notes] to create the [Grimtotem Battle Plan] (42.37, 11.58) in Blackhoof Village| |U|33050|
 
 R Swamplight Manor |N|Travel to Swamplight Manor (55.41, 26.29)| |QID|27183|
 T The Hermit of Witch Hill |QID|27182| |N|"Swamp Eye" Jarl (55.41, 26.29) in Swamplight Manor| |NPC|4792|
@@ -84,13 +81,11 @@ A The Theramore Docks |QID|1202| |N|Nazeer Bloodpike (35.27, 30.62) in Brackenwa
 T The Lost Report |QID|27244| |N|Nazeer Bloodpike (35.27, 30.74) in Brackenwall Village| |NPC|4791|
 T A Shambling Threat |QID|26682| |N|Krog (36.44, 31.84) in Brackenwall Village| |NPC|4926|
 A Inspecting the Ruins |QID|27253| |N|Krog (36.44, 31.84) in Brackenwall Village| |NPC|4926|
-T More than Coincidence |QID|27294| |N|Krog (36.50, 31.87) in Brackenwall Village| |NPC|4926|
-T The Grimtotem Plot |QID|27293| |N|Krog (36.50, 31.87) in Brackenwall Village| |NPC|4926|
 T Twilight of the Dawn Runner |QID|9437| |N|Balandar Brightstar (35.81, 31.63) in Brackenwall Village| |NPC|17095|
 
-R Darkmist Cavern |N|Travel to Darkmist Cavern (30.34, 21.15)| |QID|27229|
+R Darkmist Cavern |N|Travel to Darkmist Cavern (39.38, 22.77)| |QID|27229|
 N As you go... |N|Destroy 8 Darkmist Eggs, and kill Darkmist spiders for 5 [Acidic Venom Sacs] and 20 [Unpopped Darkmist Eyes] for the quest 'Darkmist Extermination', 'The Black Shield (Part 3)' and 'Jarl Needs Eyes', tick this step| |QID|27184| |OBJ|378| |NPC|4376|
-C SMASH BROODQUEEN |QID|27229| |N|Kill Darkmist Broodqueen and collect the [Broodqueen Pedipalp] (31.17, 20.34) in Darkmist Cavern| |NPC|45227|
+C SMASH BROODQUEEN |QID|27229| |N|Kill Darkmist Broodqueen and collect the [Broodqueen Pedipalp] (39.38, 22.77) (31.17, 20.34) in Darkmist Cavern| |NPC|45227|
 C Darkmist Extermination |QID|25051| |N|Destroy 8 Darkmist Eggs, found deep in the mines (30.34, 21.15) in Darkmist Cavern| |OBJ|378|
 C The Black Shield (Part 3) |QID|27256| |N|Collect 5 [Acidic Venom Sacs] from Darkmist spiders (34.22, 21.06) in Darkmist Cavern| |NPC|4376|
 C Jarl Needs Eyes |QID|27184.1| |N|Collect 20 [Unpopped Darkmist Eyes] from Darkmist Spiders, Silkspinners and Recluses (34.54, 21.24) in Darkmist Cavern| |NPC|4376|
@@ -110,6 +105,8 @@ A Deadmire |QID|27292| |N|Melor Stonehoof (61.2, 80.4) in Hunter Rise| |Z|362| |
 
 R Brackenwall Village |QID|27292| |N|Travel to Brackenwall Village (36.48, 31.84)|
 T Return to Krog |QID|27292| |N|Krog (36.48, 31.84) in Brackenwall Village| |NPC|4926|
+A More than Coincidence |QID|27294| |N|Krog (36.48, 31.84) in Brackenwall Village| |NPC|4926|
+A The Grimtotem Plot |QID|27293| |N|Krog (36.48, 31.84) in Brackenwall Village| |NPC|4926|
 
 R Swamplight Manor |N|Travel to Swamplight Manor (55.41, 26.29)| |QID|27191|
 T Jarl Needs Eyes |QID|27184| |N|"Swamp Eye" Jarl (55.41, 26.28) in Swamplight Manor| |NPC|4792|
@@ -125,6 +122,7 @@ C The Theramore Docks |QID|1202.1| |N|Collect the [Captain's Documents] from in 
 
 R Brackenwall Village |N|Travel to Brackenwall Village (36.84, 32.37)| |QID|1202|
 T The Theramore Docks |QID|1202| |N|Nazeer Bloodpike (35.27, 30.74) in Brackenwall Village| |NPC|4791|
+A Check Up on Tabetha |QID|11213| |N|Nazeer Bloodpike (35.26, 30.71) in Brackenwall Village| |NPC|4791|
 
 R Shady Rest Inn |N|Travel to Shady Rest Inn (29.80, 48.16)| |QID|27260|
 T Inspecting the Ruins |QID|27253| |N|Inspector Tarem (29.74, 47.61) in Shady Rest Inn| |NPC|23567|
@@ -135,18 +133,8 @@ R Brackenwall Village |N|Travel to Brackenwall Village (37.13, 33.02)| |QID|2741
 A Identifying the Brood |QID|27414| |N|Draz'Zilb (37.13, 33.02) in Brackenwall Village| |NPC|4501|
 A Overlord Mok'Morokk's Concern |QID|27424| |N|Overlord Mok'Morokk (36.34, 31.48) in Brackenwall Village| |NPC|4500|
 A Army of the Black Dragon |QID|1168| |N|Tharg (37.31, 31.37) in Brackenwall Village| |NPC|4502|
-A Check Up on Tabetha |QID|11213| |N|Nazeer Bloodpike (35.26, 30.71) in Brackenwall Village| |NPC|4791|
 T Suspicious Hoofprints |QID|27259| |N|Krog (36.39, 31.84) in Brackenwall Village| |NPC|4926|
 T Lieutenant Paval Reethe |QID|27260| |N|Krog (36.39, 31.84) in Brackenwall Village| |NPC|4926|
-A Talk to Ogron |QID|27306| |N|Krog (36.39, 31.84) in Brackenwall Village| |NPC|4926|
-T Talk to Ogron |QID|27306| |N|Ogron (40.90, 36.63)| |NPC|4983|
-A Questioning Reethe |QID|27261| |N|Ogron (40.90, 36.63)| |NPC|4983|
-C Questioning Reethe |QID|27261.1| |N|Go with Ogron to speak with Reethe (42.56, 38.00)| |NPC|4980|
-T Questioning Reethe |QID|27261| |N|Krog (36.51, 31.81) in Brackenwall Village| |NPC|4926|
-
-R Brackenwall Village |QID|27294| |N|Travel to Brackenwall Village (36.48, 31.84)|
-A More than Coincidence |QID|27294| |N|Krog (36.48, 31.84) in Brackenwall Village| |NPC|4926|
-A The Grimtotem Plot |QID|27293| |N|Krog (36.48, 31.84) in Brackenwall Village| |NPC|4926|
 
 R Blackhoof Village |N|Travel to Blackhoof Village (42.23, 13.61)| |QID|27293|
 C More than Coincidence |QID|27294.1| |N|Collect 7 [Blackhoof Armaments] found around Blackhoof Village (40.70, 12.54)| |OBJ|7425|
@@ -156,21 +144,24 @@ C The Grimtotem Plot |QID|27293.1| |N|Combine 4 [Grimtotem Notes] to create the 
 R Brackenwall Village |N|Travel to Brackenwall Village (36.50, 31.87)| |QID|11215|
 T More than Coincidence |QID|27294| |N|Krog (36.50, 31.87) in Brackenwall Village| |NPC|4926|
 T The Grimtotem Plot |QID|27293| |N|Krog (36.50, 31.87) in Brackenwall Village| |NPC|4926|
+A Seek Out Tabetha |QID|27295| |N|Krog (36.48, 31.85) in Brackenwall Village| |NPC|4926|
 
 R Tabetha's Farm |N|Travel to Tabetha's Farm (46.18, 57.42)| |QID|27340|
+T Seek Out Tabetha |QID|27295| |N|Tabetha (45.98, 57.12) in Tabetha's Farm| |NPC|6546|
+T Check Up on Tabetha |QID|11213| |N|Tabetha (45.98, 57.17) in Tabetha's Farm| |NPC|6546|
 A Direhorn Raiders |QID|27340| |N|Apprentice Morlann (46.18, 57.42) in Tabetha's Farm| |NPC|23600|
 A The Zeppelin Crash |QID|27346| |N|Apprentice Morlann (46.10, 57.47) in Tabetha's Farm| |NPC|23600|
-T Check Up on Tabetha |QID|11213| |N|Tabetha (45.98, 57.17) in Tabetha's Farm| |NPC|6546|
 A The Grimtotem Weapon |QID|27336| |N|Apprentice Garion (45.99, 57.19) in Tabetha's Farm| |NPC|23601|
 A The Reagent Thief |QID|27339| |N|Apprentice Garion (45.99, 57.19) in Tabetha's Farm| |NPC|23601|
 C Deadmire |QID|27292| |N|Kill Dreadmire and collect [Dreadmire's Tooth] (47.2, 56.4)| |NPC|4841|
 
 R Direhorn Post |N|Travel to Direhorn Post (45.67, 45.20)| |QID|27340|
-C Direhorn Raiders |QID|27340.1| |N|Kill 12 Grimtotems in Direhorn Post (45.67, 45.20) in Direhorn Post| |NPC|23595, 23594|
+C Direhorn Raiders |QID|27340.1| |N|Kill 12 Grimtotems in Direhorn Post (45.67, 45.20)| |NPC|23595, 23594|
 
 R The Quagmire |N|Travel to The Quagmire (43.54, 48.36)| |QID|27339|
-C The Reagent Thief |QID|27339.1| |N|Collect 6 vials of [Marsh Venom] from Darkfang Creepers or Noxious Shredders (43.54, 48.36) in The Quagmire| |NPC|4412, 4348|
-C The Grimtotem Weapon |QID|27336.1| |N|Place the [Captured Totem] on the ground and kill 10 Mottled Drywallow Crocolisks or Drywallow Daggermaws near it. Mobs must be under totems effects (43.48, 49.77) in The Quagmire| |U|33101| |NPC|4344, 4345|
+N As You Go... |QID|27339| |N|As you go, place the [Captured Totem] on the ground and kill 10 Mottled Drywallow Crocolisks or Drywallow Daggermaws near it. You must have the killing blow for the kill to count towards the quest. Tick this step.|
+C The Reagent Thief |QID|27339.1| |N|Collect 6 vials of [Marsh Venom] from Darkfang Creepers or Noxious Shredders (43.54, 48.36) in The Quagmire| |U|33101| |NPC|4412, 4348|
+C The Grimtotem Weapon |QID|27336.1| |N|Place the [Captured Totem] on the ground and kill 10 Mottled Drywallow Crocolisks or Drywallow Daggermaws near it. Mobs must be under totems effects and you must have the killing blow for the kill to count towards the quest (43.48, 49.77)| |U|33101| |NPC|4344, 4345|
 
 R Tabetha's Farm |N|Travel to Tabetha's Farm (46.18, 57.42)| |QID|27336|
 T The Grimtotem Weapon |QID|27336| |N|Apprentice Garion (46.01, 57.20) in Tabetha's Farm| |NPC|23601|
@@ -181,7 +172,8 @@ R Beezil's Wreck |N|Travel to Beezil's Wreck (53.53, 56.93)| |QID|27347|
 T The Zeppelin Crash |QID|27346| |N|Moxie Steelgrille (53.53, 56.93) in Beezil's Wreck| |NPC|23797|
 A Corrosion Prevention |QID|27347| |N|Moxie Steelgrille (53.53, 56.93) in Beezil's Wreck| |NPC|23797|
 A Secure the Cargo! |QID|27348| |N|Moxie Steelgrille (53.53, 56.93) in Beezil's Wreck| |NPC|23797|
-C Secure the Cargo! |QID|27348.1| |N|Collect 8 pieces of [Zeppelin Cargo] (53.26, 55.72) in Beezil's Wreck| |OBJ|6606|
+N As You Go... |QID|27347| |N|As you go, Use the [Ooze Buster] to dissolve 10 oozes. Tick this step.|
+C Secure the Cargo! |QID|27348.1| |N|Collect 8 pieces of [Zeppelin Cargo] (53.26, 55.72) in Beezil's Wreck| |U|33108| |OBJ|6606|
 C Corrosion Prevention |QID|27347.1| |N|Use the [Ooze Buster] to dissolve 10 oozes. You can only use the ooze buster when you're near an active power core fragment (and are energized) (54.35, 55.91) in Beezil's Wreck| |U|33108| |NPC|4393, 4394|
 T Corrosion Prevention |QID|27347| |N|Moxie Steelgrille (53.53, 56.89) in Beezil's Wreck| |NPC|23797|
 T Secure the Cargo! |QID|27348| |N|Moxie Steelgrille (53.53, 56.89) in Beezil's Wreck| |NPC|23797|
@@ -204,6 +196,7 @@ A WANTED: Goreclaw the Ravenous |QID|27412| |N|Wanted Poster (41.74, 73.03) in M
 A Catch a Dragon by the Tail |QID|27413| |N|Gizzix Grimegurgle (41.61, 73.03) in Mudsprocket| |NPC|23570|
 A Bloodfen Feathers |QID|27407| |N|Brogg (41.86, 73.88) in Mudsprocket| |NPC|23579|
 h Mudsprocket |N|Set Hearth to Mudsprocket (41.93, 74.12)| |QID|27412| |NPC|23995|
+f Mudsprocket |N|Grab the Mudsprocket flight path (42.85, 72.38)| |NPC|40358|
 
 R Thunder Bluff |QID|27292| |N|Travel to Thunder Bluff (61.2, 80.4)| |Z|362|
 T Deadmire |QID|27292| |N|Melor Stonehoof (61.2, 80.4) in Hunter Rise| |Z|362| |NPC|3441|
@@ -217,7 +210,6 @@ A The Brood of Onyxia (Part 1) |QID|27417| |N|Overlord Mok'Morokk (36.32, 31.44)
 T Army of the Black Dragon |QID|1168| |N|Tharg (37.31, 31.40) in Brackenwall Village| |NPC|4502|
 T The Brood of Onyxia (Part 1) |QID|27417| |N|Draz'Zilb (37.13, 33.00) in Brackenwall Village| |NPC|4501|
 A The Brood of Onyxia (Part 2) |QID|27415| |N|Draz'Zilb (37.13, 33.00) in Brackenwall Village| |NPC|4501|
-A Seek Out Tabetha |QID|27295| |N|Krog (36.48, 31.85) in Brackenwall Village| |NPC|4926|
 A Help Mudsprocket |QID|11215| |N|Nazeer Bloodpike (35.26, 30.72) in Brackenwall Village| |NPC|4791|
 
 R Mudsprocket |N|Travel to Mudsprocket (42.27, 72.93)| |QID|27296| |NPC|11899|
@@ -228,7 +220,6 @@ C Bloodfen Feathers |QID|27407.1| |N|Collect 5 [Bloodfen Feathers] from Bloodfen
 C WANTED: Goreclaw the Ravenous |QID|27412.1| |N|Kill Goreclaw the Ravenous (32.15, 64.93) Bloodfen Burrow| |NPC|23873|
 
 R Tabetha's Farm |N|Travel to Tabetha's Farm (45.98, 57.12)| |QID|27296|
-T Seek Out Tabetha |QID|27295| |N|Tabetha (45.98, 57.12) in Tabetha's Farm| |NPC|6546|
 A Raze Direhorn Post! |QID|27296| |N|Tabetha (45.98, 57.12) in Tabetha's Farm| |NPC|6546|
 
 R Direhorn Post |N|Travel to Direhorn Post (47.25, 47.69)| |QID|27296|
@@ -242,7 +233,7 @@ A Justice Dispensed |QID|27297| |N|Tabetha (45.98, 57.12) in Tabetha's Farm| |NP
 
 R The Dragonmurk |N|Travel to The Dragonmurk (50.16, 70.99)| |QID|27415|
 C Catch a Dragon by the Tail |QID|27413.1| |N|Collect 8 [Wyrmtail] stalks. These plants are scattered around the area (50.16, 70.99) The Dragonmurk| |OBJ|391|
-C The Brood of Onyxia (Part 2) |QID|27415.1| |N|Destroy 5 Eggs of Onyxia. The eggs are inside stumps that surround the outside of onixia's lair (48.45, 75.96) Wyrmbog| |OBJ|477|
+C The Brood of Onyxia (Part 2) |QID|27415.1| |N|Destroy 5 Eggs of Onyxia. The eggs are inside stumps that surround the outside of Onyxia's Lair (48.45, 75.96) Wyrmbog| |OBJ|477|
 
 R Mudsprocket |N|Travel to Mudsprocket (42.27, 72.95)| |QID|27408|
 T WANTED: Goreclaw the Ravenous |QID|27412| |N|Drazzit Dripvalve (42.27, 72.95) in Mudsprocket| |NPC|23572|
@@ -258,7 +249,7 @@ A Spirits of Stonemaul Hold |QID|27410| |N|Brogg (41.86, 73.87) in Mudsprocket| 
 C Spirits of Stonemaul Hold |QID|27410.1| |N|Put 10 Stonemaul Spirits to rest. Use the [Energized Totem] near ogre skeletons to draw the spirits to you. Then kill them (43.64, 64.59) in Stonemaul Ruins| |U|33091| |NPC|23786|
 T Spirits of Stonemaul Hold |QID|27410| |N|Brogg (41.85, 73.86) in Mudsprocket| |NPC|23579|
 A Challenge to the Black Flight |QID|27411| |N|Brogg (41.85, 73.86) in Mudsprocket| |NPC|23579|
-C Challenge to the Black Flight |QID|27411.1| |N|Place the [Stonemaul Banner] at the entrance to Onyxia's Lair. Kill Smolderwing when he spawns (56.47, 71.28) (52.13, 75.81) Onyxia's Lair| |U|33095| |NPC|23789|
+C Challenge to the Black Flight |QID|27411.1| |N|Place the [Stonemaul Banner] at the entrance to Onyxia's Lair. Kill Smolderwing when he spawns (52.13, 75.81) Onyxia's Lair| |U|33095| |NPC|23789|
 T Challenge to the Black Flight |QID|27411| |N|Brogg (41.86, 73.91) in Mudsprocket| |NPC|23579|
 A To the Summit |QID|25478| |N|Nyse (41.86, 73.88) in Mudsprocket| |NPC|40344|
 

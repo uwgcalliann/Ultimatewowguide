@@ -12,12 +12,13 @@ R Hammerfall |N|Travel to Hammerfall (69.66, 36.80)| |QID|26430| |Z|16|
 N Abandon 'Warchief's Command: The Hinterlands!' |QID|28574| |N|Abandon 'Warchief's Command: The Hinterlands!' to accept 'Revantusk Village', tick this step| |O|
 A Revantusk Village |QID|26430| |N|Drum Fel (68.96, 34.74) in Hammerfall| |Z|16| |NPC|2771|
 
-F Revantusk Village |N|Speak with Urda to fly to Revantusk (68.15, 33.46)| |QID|26023| |Z|16| |NPC|2851|
+F Revantusk Village |N|Speak with Urda to fly to Revantusk (68.15, 33.46)| |QID|26430| |Z|16| |NPC|2851|
+f Revantusk Village |N|Grab the Revantusk Village flight path (81.71, 81.78)| |QID|26430| |NPC|4314|
 A Gammerita, Mon! |QID|26210| |N|Katoom the Angler (80.36, 81.52) in Revantusk Village| |NPC|14740|
 A Snapjaws, Mon! |QID|26211| |N|Katoom the Angler (80.36, 81.52) in Revantusk Village| |NPC|14740|
 A Stalking the Stalkers |QID|26223| |N|Huntsman Markhor (79.10, 79.58) in Revantusk Village| |NPC|14741|
 A Lard Lost His Lunch |QID|26212| |N|Lard (78.16, 81.35) in Revantusk Village| |NPC|14731|
-h Revantusk Village |N|Set Hearth at Revantusk Village (78.16, 81.35)| |NPC|14731|
+h Revantusk Village |QID|26430| |N|Set Hearth at Revantusk Village (78.16, 81.35)| |NPC|14731|
 T Revantusk Village |QID|26430| |N|Elder Torntusk (77.70, 82.10) (78.18, 81.32) upstairs, Revantusk Village| |NPC|42613|
 A The Savage Dwarves |QID|26238| |N|Elder Torntusk (78.18, 81.32) in Revantusk Village| |NPC|42613|
 A Thornar Thunderclash |QID|26263| |N|Elder Torntusk (78.18, 81.32) in Revantusk Village| |NPC|42613|
@@ -28,8 +29,7 @@ N As you go... |N|Collect 12 [Pupellyverbos Port] as you go, they are small blac
 C Gammerita, Mon! |QID|26210| |N|Kill Gammerita, the large blue turtle that pats along the coast. Collect [Katoom's Best Lure] in The Overlook Cliffs (78.47, 68.49)| |NPC|7977|
 C Snapjaws, Mon! |QID|26211| |N|Kill 10 Saltwater Snapjaw turtles, found all along the coast (76.30, 65.36) The Overlook Cliffs| |NPC|2505|
 C Thornar Thunderclash |QID|26263| |N|Kill Thornar Thunderclash (76.29, 76.28) (72.31, 66.23) (71.00, 48.49)| |NPC|42610|
-N [OOX-09/HL Distress Beacon] drops from Thornar Thunderclash |N|Collect [OOX-09/HL Distress Beacon] drops from Thornar Thunderclash (71.00, 48.49)| |T| |L|8704| |QID|485| |NPC|42610|
-A Find OOX-09/HL! |QID|485| |N|Use the [OOX-09/HL Distress Beacon] to accept the quest| |U|8704|
+A Find OOX-09/HL! |QID|485| |N|Use the [OOX-09/HL Distress Beacon] to accept the quest| |U|8704| |O|
 C Stomp To My Beat |QID|26240| |N|Use the [Revantusk War Drums] on 6 Revantusk Stalkers (71.61, 50.35)| |U|57920| |NPC|42536|
 C The Savage Dwarves |QID|26238.1| |N|Kill 10 Wildhammer Warriors or Wildhammer Shaman (71.29, 47.36)| |NPC|42554, 42518|
 C Stalking the Stalkers |QID|26223.1| |N|Kill 8 Silvermane Stalkers (75.91, 51.39)| |NPC|2926|
@@ -38,7 +38,7 @@ R The Overlook Cliffs |N|Travel to The Overlook Cliffs (79.20, 46.76) (84.46, 41
 C Lard Lost His Lunch |QID|26212.1| |N|Click on Lard's Picnic basket and a couple of trolls will appear, kill them to get [Lard's Lunch] in The Overlook Cliffs (84.46, 41.20)| |OBJ|5993| |NPC|14748|
 
 R Revantusk Village |N|Travel back to Revantusk Village (78.16, 81.35)| |QID|26267|
-C Pupellyverbos Port |QID|26225| |N|Collect 12 [Pupellyverbos Port] they are small black bottles on the ground (77.11, 76.15) (76.44, 83.84) in Revantusk Village| |OBJ|225|
+C Pupellyverbos Port |QID|26225| |N|Collect 12 [Pupellyverbos Port] as you go, they are small black bottles on the ground, you can find a lot of them back at Revantusk Village and north of it| |OBJ|225|
 T Lard Lost His Lunch |QID|26212| |N|Lard (78.17, 81.31) in Revantusk Village| |NPC|14731|
 T The Savage Dwarves |QID|26238| |N|Elder Torntusk (78.14, 81.38) in Revantusk Village| |NPC|42613|
 T Thornar Thunderclash |QID|26263| |N|Elder Torntusk (78.16, 81.35) in Revantusk Village| |NPC|42613|
@@ -54,13 +54,13 @@ T Pupellyverbos Port |QID|26225| |N|Grognard (77.30, 79.98) in Revantusk Village
 C Hunt the Savages |QID|26224.1| |N|Kill 10 Savage Owlbeasts (76.55, 76.87) (72.27, 65.96) (60.24, 49.91)| |NPC|2929|
 
 R Skulk Rock |N|Travel to Skulk Rock (59.71, 39.68) (57.38, 38.53)| |QID|26283| 
-N As you go... |N|Collect 5 [Ooze-Coated Supply Crates] They are small wooden crates with red horde symbols on them, found inside the cave for the quest 'Skulk Rock Supplies'| |QID|26283| |OBJ|1988|
+N As you go... |N|Collect 5 [Ooze-Coated Supply Crates] They are small wooden crates with red horde symbols on them, found inside the cave for the quest 'Skulk Rock Supplies', tick this step| |QID|26283| |OBJ|1988|
 C Prime Slime |QID|26283.1| |N|Kill The Direglob inside the cave and collect the [Direglob Sample]. Skulk Rock (57.47, 41.44)| |NPC|42592|
 C Skulk Rock Supplies |QID|26268.1| |N|Collect 5 [Ooze-Coated Supply Crates]. They are small wooden crates with red horde symbols on them, found inside the cave. Skulk Rock (58.26, 40.96)| |OBJ|1988|
 C Skulk Rock Clean-Up |QID|26267.1| |N|Kill 10 Jade Oozes, found inside and outside Skulk Rock (58.22, 40.82)| |NPC|2656|
-T Find OOX-09/HL! |QID|485| |N|Homing Robot OOX-09/HL (49.34, 37.67)| |NPC|7806|
-A Rescue OOX-09/HL! |QID|836| |N|Homing Robot OOX-09/HL (49.34, 37.67)| |NPC|7806|
-C Rescue OOX-09/HL! |QID|836.1| |N|Escort OOX-09/HL to safety (48.30, 44.32) (57.86, 50.23)|
+T Find OOX-09/HL! |QID|485| |N|Homing Robot OOX-09/HL (49.34, 37.67)| |NPC|7806| |O|
+A Rescue OOX-09/HL! |QID|836| |N|Homing Robot OOX-09/HL (49.34, 37.67)| |NPC|7806| |PRE|485|
+C Rescue OOX-09/HL! |QID|836.1| |N|Escort OOX-09/HL to safety (48.30, 44.32) (57.86, 50.23)| |PRE|485|
 
 R Revantusk Village |N|Travel to Revantusk Village (79.15, 79.60)| |QID|26432|
 T Hunt the Savages |QID|26224| |N|Huntsman Markhor (79.15, 79.60) in Revantusk Village| |NPC|14741|
@@ -75,9 +75,9 @@ A Start Taking Back |QID|26306| |N|Primal Torntusk (67.81, 66.52) in Jintha'Alor
 A All That Skitters |QID|26310| |N|Eliza Darkgrin (67.65, 66.59) in Jintha'Alor| |NPC|42622|
 A Faces of Evil |QID|26357| |N|Kotonga (67.79, 66.28) in Jintha'Alor| |NPC|42624|
 N As you go... |N|Collect 8 [Skittering Spiderlings] They are tiny little spiders that run around Jintha-Alor, tip Press ESC-> Interface -> Names -> Critters/Companions to make it easier to find them. Tick this step| |QID|26310| |NPC|42689|
-C Faces of Evil |QID|26357.1| |N|Use the [Tiki Torch] to set fire to 8 Tiki Masks, found along the walls of Jintha'Alor. Jintha'Alor (66.55, 68.64) (67.95, 68.25) (67.86, 70.65) (65.26, 67.59) (63.82, 68.96) (63.75, 66.92)| |U|58209|
+C Faces of Evil |QID|26357.1| |N|Use the [Tiki Torch] to set fire to 8 Tiki Masks, found along the walls of Jintha'Alor. (66.55, 68.64) (67.95, 68.25) (67.86, 70.65) (65.26, 67.59) (63.82, 68.96) (63.75, 66.92)| |U|58209|
 C All That Skitters |QID|26310.1| |N|Collect 8 [Skittering Spiderlings] They are tiny little spiders that run around Jintha-Alor, tip Press ESC-> Interface -> Names -> Critters/Companions to make it easier to find them (65.36, 67.84) in Jintha'Alor| |NPC|42689|
-C Start Taking Back |QID|26306.1| |N|Kill 5 Vilebranch Witch Doctors and 5 Vilebranch Headhunters. These are found on the lower 2 levels of Jintha'Alor and do have a long respawn time. Jintha'Alor (66.60, 70.81)| |NPC|2641, 2640|
+C Start Taking Back |QID|26306.1| |N|Kill 5 Vilebranch Witch Doctors and 5 Vilebranch Headhunters. These are found on the lower 2 levels of Jintha'Alor and do have a long respawn time. (66.60, 70.81)| |NPC|2641, 2640|
 T Faces of Evil |QID|26357| |N|Kotonga (67.78, 66.26) in Jintha'Alor| |NPC|42624|
 T Start Taking Back |QID|26306| |N|Primal Torntusk (67.81, 66.50) in Jintha'Alor| |NPC|42642|
 A Death to the Vilebranch |QID|26307| |N|Primal Torntusk (67.81, 66.50) in Jintha'Alor| |NPC|42642|
@@ -86,7 +86,7 @@ T All That Skitters |QID|26310| |N|Eliza Darkgrin (67.63, 66.57) in Jintha'Alor|
 A Dark Vessels |QID|26309| |N|Eliza Darkgrin (67.63, 66.57) in Jintha'Alor| |NPC|42622|
 N As you go... |N|Collect 5 [Vessels of Tainted Blood]. They look like small cauldrons on the ground that you have to loot, don't go out of your way to complete this quest until later with the quest 'Summit of Fate'. Tick this step| |QID|26309| |OBJ|216|
 C Heads Up |QID|26366| |N|Kill Umboda Three-Heads and collect [Umboda's Head]. Jintha'Alor (66.66, 68.48) (67.90, 68.51) (67.74, 70.67) (65.21, 69.12) (65.15, 65.01)| |NPC|42724|
-C Death to the Vilebranch |QID|26307| |N|Kill 5 Vilebranch Berserkers and 5 Vilebranch Shadowcasters, found on the third floor of Jintha'Alor. Jintha'Alor (65.21, 69.12) (63.71, 68.95) (64.08, 66.01)| |NPC|2643, 2642|
+C Death to the Vilebranch |QID|26307| |N|Kill 5 Vilebranch Berserkers and 5 Vilebranch Shadowcasters, found on the third floor of Jintha'Alor. (65.21, 69.12) (63.71, 68.95) (64.08, 66.01)| |NPC|2643, 2642|
 T Death to the Vilebranch |QID|26307| |N|Primal Torntusk (67.79, 66.44) in Jintha'Alor| |NPC|42642|
 A It's Ours Now |QID|26308| |N|Primal Torntusk (67.79, 66.44) in Jintha'Alor| |NPC|42642|
 T Heads Up |QID|26366| |N|Primal Torntusk (67.79, 66.44) in Jintha'Alor| |NPC|42642|
@@ -131,8 +131,8 @@ T The Eye of Shadra |QID|26381| |N|Darkcleric Marnal (31.88, 58.39) in Hiri'wath
 A The Fang of Shadra |QID|26406| |N|Darkcleric Marnal (31.88, 58.39) in Hiri'watha Research Station| |NPC|42898|
 T Can't Make An Omelette Without... |QID|26382| |N|Apothecary Surlis (31.83, 58.55) in Hiri'watha Research Station| |NPC|42896|
 A Starvation Diet |QID|26382| |N|Apothecary Surlis (31.83, 58.55) in Hiri'watha Research Station| |NPC|42896|
-C The Fang of Shadra |QID|26406| |N|Collect [Fang of Shadra] from the box, this item have a 5 minute respawn time so it may not be there if someone recently looted it, you will have to wait. The Creeping Ruin (49.44, 52.13)| |OBJ|2450|
-C Starvation Diet |QID|26387| |N|Kill 6 Cocooned Victims (49.06, 52.86) The Creeping Ruin| |NPC|42907|
+C The Fang of Shadra |QID|26406| |N|Collect [Fang of Shadra] from the box. This item has a 5 minute respawn time so it may not be there if someone recently looted it. You will have to wait (49.44, 52.13)| |OBJ|2450|
+C Starvation Diet |QID|26387| |N|Kill 6 Cocooned Victims (49.06, 52.86) within The Creeping Ruin| |NPC|42907|
 
 R Hiri'watha Research Station |N|Travel to Hiri'watha Research Station (32.45, 58.08)| |QID|26381|
 T The Fang of Shadra |QID|26406| |N|Darkcleric Marnal (31.88, 58.39) in Hiri'watha Research Station| |NPC|42898|
