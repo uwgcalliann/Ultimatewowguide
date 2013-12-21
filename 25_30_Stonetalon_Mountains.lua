@@ -65,6 +65,7 @@ T Where Are the Parts? |QID|26044| |N|Sergeant Dontrag (67.13, 64.47) in The Dee
 A I Got Your Parts Right Here... |QID|26045| |N|Sergeant Dontrag (67.13, 64.47) in The Deep Reaches| |NPC|41991|
 A And That's Why They Call Them Peons... |QID|26047| |N|Blastgineer Igore (67.13, 64.47) in The Deep Reaches| |NPC|41992|
 A Between a Rock and a Hard Place |QID|26046| |N|Scout Utvoch (67.13, 64.47) in The Deep Reaches| |NPC|41990|
+N As You Go...  |QID|26045| |N|As you go, collect 10 [Spare Parts], kill 12 Raging Earth Elementals and rescue 10 Frightened Peons. Tick this step.|
 C Got Your Parts Right Here... |QID|26045.1| |N|Collect 10 [Spare Parts] scattered around the mine (68.10, 75.56) in The Deep Reaches| |OBJ|9567|
 C Between a Rock and a Hard Place |QID|26046.1| |N|Kill 12 Raging Earth Elementals (67.17, 72.87) in The Deep Reaches| |NPC|41993|
 C And That's Why They Call Them Peons... |QID|26047.1| |N|Rescue 10 Frightened Peons (67.13, 76.19) in The Deep Reaches| |NPC|41989|
@@ -109,7 +110,6 @@ C Da Voodoo: Resonite Crystal |QID|26062.1| |N|Collect 8 [Resonite Crystals] in 
 T Reinforcements... |QID|26066| |N|Subjugator Devo (71.11, 91.19) in Malaka'jin| |NPC|42023|
 A Kobold Fury! |QID|26068| |N|Subjugator Devo (71.11, 91.19) in Malaka'jin| |NPC|42023|
 
-R Boulderslide Ravine |N|Travel to Boulderslide Ravine (62.47, 89.74)| |QID|26067|
 R Malaka'jin |N|Travel to Malaka'jin (63.61, 90.37) (66.54, 85.72) (70.16, 86.41) (71.11, 91.19)| |QID|26067|
 T Da Voodoo: Resonite Crystal |QID|26062| |N|Witch Doctor Jin'Zil (71.11, 91.19) in Malaka'jin| |NPC|3995|
 A Jin'Zil's Blessing |QID|26067| |N|Witch Doctor Jin'Zil (71.11, 91.19) in Malaka'jin| |NPC|3995|
