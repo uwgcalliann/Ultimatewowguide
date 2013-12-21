@@ -39,7 +39,7 @@ T The Forsaken Trollbane |QID|26023| |N|Galen Trollbane (12.94, 36.18) in Galen'
 A Sigil of Strom |QID|26030| |N|Galen Trollbane (12.94, 36.18) in Galen's Fall| |NPC|41944|
 N As you go... |N|Kill Highland Striders or Highland Thrashers (12.76, 47.08) for 10 [Highland Raptor Eyes] for the quest Raising Spirits, tick this step| |QID|26107| |NPC|2559, 2560|
 
-R Stromgarde Keep |N|Travel to Stromgarde Keep (12.76, 47.08) (19.47, 57.52)| |QID|26027|
+R Stromgarde Keep |N|Travel to Stromgarde Keep (20.53, 51.19) (19.47, 57.52)| |QID|26027|
 C The Traitor Orc |QID|26025.1| |N|Kill Marez Cowl and collect the [Befouled Bloodstone Orb] in Stromgarde Keep (19.55, 61.70) (22.93, 66.04)| |NPC|2783|
 C Sigil of Strom |QID|26030.1| |N|Kill Syndicate members to collect the [Sigil of Strom] in Stromgarde Keep (19.97, 67.19)| |NPC|2590, 2588, 2591|
 C Call to Arms |QID|26027| |N|Kill 3 Boulderfist Lords and 7 Boulderfist Shaman in Stromgarde Keep (17.84, 62.28) (17.37, 68.07) (11.85, 68.46)| |NPC|2571, 2570|
@@ -51,7 +51,7 @@ T Call to Arms |QID|26027| |N|Dark Ranger Alina (13.35, 35.95) in Galen's Fall| 
 T The Traitor Orc |QID|26025| |N|Dark Ranger Alina (13.35, 35.95) in Galen's Fall| |NPC|41949|
 A The Real Threat |QID|26029| |N|Deathstalker Maudria (13.40, 33.90) in Galen's Fall| |NPC|41966|
 
-R Stromgarde Keep |N|Travel to Stromgarde Keep (12.76, 47.08) (19.47, 57.52)| |QID|26027|
+R Stromgarde Keep |N|Travel to Stromgarde Keep (20.53, 51.19) (19.47, 57.52)| |QID|26029|
 C The Real Threat |QID|26029.1| |N|Kill Or'Kalar and collect [Or'Kalar's Head] in Stromgarde Keep (17.84, 62.28) (17.37, 68.07) (11.85, 68.46) (14.73, 67.54)| |NPC|2773|
 C Sigil of Thoradin |QID|26031.1| |N|Collect 5 [Sigil Fragments] from Stromgarde defenders in Stromgarde Keep (17.59, 67.39) (16.99, 62.38)| |NPC|2585, 2584, 2583|
 
@@ -66,7 +66,7 @@ T Sigil of Arathor |QID|26032| |N|Galen Trollbane (12.93, 36.18) in Galen's Fall
 A Trol'kalar |QID|26033| |N|Galen Trollbane (12.93, 36.18) in Galen's Fall| |NPC|41944|
 
 R Stromgarde Keep |N|Travel to Stromgarde Keep (20.46, 51.32) (19.47, 57.52)| |QID|26081|
-C Trol'kalar |QID|26033.1| |N|Use the [Sigil of Trollbane] to enter the tomb and collect the [Sheathed Trol'kalar] in Crypt (19.61, 61.69) (16.23, 61.66) (16.96, 59.78) (22.71, 60.73) (22.50, 61.34)| |U|4466| |OBJ|11|
+C Trol'kalar |QID|26033.1| |N|Use the [Sigil of Trollbane] to enter the tomb and collect the [Sheathed Trol'kalar] inside the Crypt (19.61, 61.69) (16.23, 61.66) (16.96, 59.78) (22.71, 60.73) (22.50, 61.34)| |U|4466| |OBJ|11|
 
 R Galen's Fall |N|Travel to Galen's Fall (12.96, 36.17)| |QID|26033|
 T Trol'kalar |QID|26033| |N|Galen Trollbane (12.97, 36.14) in Galen's Fall| |NPC|41944|
@@ -103,8 +103,8 @@ A The Princess Trapped |QID|26039| |N|Shards of Myzrael (57.33, 34.53)| |OBJ|166
 
 R Drywhisker Gorge |N|Travel to Drywhisker Gorge (75.42, 41.17)| |QID|26039|
 C The Princess Trapped |QID|26039| |N|Collect 12 [Mote of Myzrael] from Drywhiskers Kobo, the turn-in for this quest is inside the cave, try to collect about 8 [Mote of Myzrael] from the Drywhiskers outside the Cave before you go in (74.70, 36.11) (75.42, 41.17) (78.01, 37.14) (78.78, 32.84) (81.40, 31.84) in Drywhisker Gorge| |NPC|2572|
-T The Princess Trapped |QID|26039| |N|Iridescent Shards (82.95, 31.88) (79.81, 31.61) in Drywhisker Gorge| |OBJ|1687|
-A Stones of Binding |QID|26041| |N|Iridescent Shards (79.78, 31.63) in Drywhisker Gorge| |OBJ|1687|
+T The Princess Trapped |QID|26039| |N|Iridescent Shards (82.95, 31.88) (79.81, 31.61) inside the cave at Drywhisker Gorge| |OBJ|1687|
+A Stones of Binding |QID|26041| |N|Iridescent Shards (79.78, 31.63) inside the cave at Drywhisker Gorge| |OBJ|1687|
 
 R Hammerfall |N|Travel to Hammerfall| (68.99, 34.78)| |QID|26429|
 A Crush the Witherbark |QID|26429| |N|Drum Fel (68.96, 34.74) in Hammerfall| |NPC|2771|

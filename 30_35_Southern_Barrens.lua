@@ -9,7 +9,7 @@ C Continue Your Training: Master Woo |QID|31833| |N|Speak with Master Woo in the
 T Continue Your Training: Master Woo |QID|31833| |N|Master Hight (48.59, 42.70) in Shrine of the Ox| |NPC|66260| |C|Monk| |Z|809|
 
 R Malaka'jin |N|Travel to Malaka'jin (71.13, 91.23)| |Z|81| |QID|26069|
-A Nura Pathfinder |QID|26069| |N|Witch Doctor Jin'Zil (71.13, 91.23) Malaka'jin| |Z|81| |NPC|3995|
+A Nura Pathfinder |QID|26069| |N|Witch Doctor Jin'Zil (71.13, 91.23) in Malaka'jin| |Z|81| |NPC|3995|
 
 R The High Road |N|Travel to The High Road (28.87, 10.66)| |QID|24504|
 T Nura Pathfinder |QID|26069| |N|Nura Pathfinder (31.43, 13.29) in The High Road| |NPC|37135|
@@ -21,8 +21,8 @@ A Holdout at Hunter's Hill |QID|24505| |N|Tunawa Stillwind (37.47, 16.98) in The
 A Warriors' Redemption |QID|24512| |N|Holgom (37.60, 16.66) in The High Road| |NPC|37153|
 A Feeding the Fear |QID|25284| |N|Holgom (37.60, 16.66) in The High Road| |NPC|37153|
 
-R Honor's Stand |N|Use the rope next to Holgom to move in and our of Honor's Stand (37.37, 16.62) in The High Road| |WR| |V|
-N 5 [Confiscated Arms] |QID|24512| |N|Collect 5 [Confiscated Arms] inside the crates around the tents (37.76, 14.19) (37.28, 13.09)| |L|49769 5| |T| |OBJ|6959|
+R Honor's Stand |N|Use the rope next to Holgom to move in and out of Honor's Stand (37.37, 16.62) in The High Road| |WR| |V|
+N 5 [Confiscated Arms] |QID|24512| |N|Collect 5 [Confiscated Arms] inside the crates around the tents. (37.76, 14.19) (37.28, 13.09)| |L|49769 5| |T| |OBJ|6959|
 C Warriors' Redemption |QID|24512| |N|Collect 5 crates of [Confiscated Arms] from Honor's Stand and re-equip 5 Stonetalon Prisoners (37.23, 14.26) in Honor's Stand| |NPC|37167|
 A Eye for an Eye |QID|24513| |N|Oltarg (37.11, 13.96) in Honor's Stand| |NPC|37136|
 C Eye for an Eye |QID|24513.1| |N|Kill Captain Peake at the top of the tower and collect [Captain Peake's Eyeballs] (37.11, 13.96) (37.21, 13.92) in Honor's Stand| |NPC|37157|
@@ -40,6 +40,7 @@ T Holdout at Hunter's Hill |QID|24505| |N|Onatay (39.52, 20.27) in Hunter's Hill
 A Raptor Scraps |QID|24514| |N|Onatay (39.52, 20.27) in Hunter's Hill| |NPC|37138|
 A Signals in the Sky |QID|24515| |N|Onatay (39.52, 20.27) in Hunter's Hill| |NPC|37138|
 f Hunter's Hill |N|Grab the Hunter's Hill Flight Path (39.72, 20.34)| |QID|24518| |NPC|39340| |PL|30|
+N As You Go... |QID|24514| |N|As you go, collect 8 [Terrortooth Hides] from Terrortooth Runners and Terrortooth Scytheclaws and kill 8 Honor's Stand Footmen. Tick this step.|
 K Honor's Stand Officer |QID|24517.1| |N|Kill 1 Honor's Stand Officer (41.45, 19.66)| |NPC|37216|
 N [Roadway Plans] |QID|24518| |N|Collect [Roadway Plans] from Honor's Stand Officer (41.45, 19.66)| |L|49776| |T| |NPC|37216|
 A The Low Road |QID|24518| |N|Use [Roadway Plans] to accept this quest| |U|49776|
@@ -51,7 +52,7 @@ T Raptor Scraps |QID|24514| |N|Onatay (39.43, 20.38) in Hunter's Hill| |NPC|3713
 T Put the Fear in Them |QID|24517| |N|Kilrok Gorehammer (39.61, 19.96) in Hunter's Hill| |NPC|37154|
 T The Low Road |QID|24518| |N|Kilrok Gorehammer (39.61, 19.96) in Hunter's Hill| |NPC|37154|
 A Stalling the Survey |QID|24519| |N|Kilrok Gorehammer (39.61, 19.96) in Hunter's Hill| |NPC|37154|
-C Stalling the Survey |QID|24519.1| |N|Kill Henry Zykes. He patrols along the road between the hold and the jungle and has 2 assistants with him (40.90, 15.33) The Great Divide| |NPC|37165|
+C Stalling the Survey |QID|24519.1| |N|Kill Henry Zykes. He patrols along the road between the hold and the jungle and has 2 assistants with him (40.90, 15.33) (42.31, 22.53) The Great Divide| |NPC|37165|
 T Stalling the Survey |QID|24519| |N|Kilrok Gorehammer (39.59, 19.93) in Hunter's Hill| |NPC|37154|
 
 R Camp Una'fe |N|Travel to Camp Una'fe (44.22, 33.67)| |QID|24525|
@@ -71,14 +72,14 @@ T When Plants Attack |QID|24539| |N|Lane Tallgrass (44.31, 33.37) in Camp Una'fe
 A A Curious Bloom |QID|24542| |N|Lane Tallgrass (44.31, 33.37) in Camp Una'fe| |NPC|37515|
 A A Family Divided |QID|24543| |N|Tawane (44.46, 33.56) in Camp Una'fe| |NPC|37516|
 C Speaking Their Language |QID|24534.1| |N|Blow the [Horn of Challenge] in the Bristleback Challenge Ring and kill Sabersnout. Once his health drops down to a certain point he will summon 10 or more boars that you must kill before he becomes kill-able (42.95, 42.13)| |U|49782| |NPC|37513|
-C A Curious Bloom |QID|24542.1| |N|Collect 10 [Unusual Flower Buds] from Budding Flowers (49.37, 43.29)| |OBJ|3232|
+C A Curious Bloom |QID|24542.1| |N|Collect 10 [Unusual Flower Buds] from Budding Flowers. They are spread out throughout the area in The Overgrowth (49.37, 43.29)| |OBJ|3232|
 
 R Overgrown Camp |N|Travel to Overgrown Camp (50.37, 40.74)| |QID|24565|
 T A Curious Bloom |QID|24542| |N|Naralex (50.37, 40.74) in Overgrown Camp| |NPC|37570|
 A Biological Intervention |QID|24565| |N|Naralex (50.37, 40.70) in Overgrown Camp| |NPC|37570|
 A Adder Subtraction |QID|24570| |N|Muyoh (50.32, 40.53) in Overgrown Camp| |NPC|38314|
 A Lashvine Seeds |QID|24571| |N|Muyoh (50.32, 40.53) in Overgrown Camp| |NPC|38314|
-C Adder Subtraction |QID|24570.1| |N|Collect 5 [Enervated Adders], they are snake critters you must loot (49.49, 40.11) in The Overgrowth| |NPC|37738|
+C Adder Subtraction |QID|24570.1| |N|Collect 5 [Enervated Adders]. They are snake critters that you must loot, not kill, (49.49, 40.11) in The Overgrowth| |NPC|37738|
 C Biological Intervention |QID|24565| |N|Kill 5 Deviate Terrortooths and 5 Deviate Plainstriders (51.89, 38.73)| |NPC|37090, 37091|
 C Lashvine Seeds |QID|24571.1| |N|Collect 4 [Writhing Seeds] from Lashvines (46.25, 37.76) in The Overgrowth| |NPC|37093|
 
@@ -107,7 +108,8 @@ A A Line in the Dirt |QID|24546| |N|Kirge Sternhorn (41.63, 46.62) in Vendetta P
 A Meet the New Boss |QID|24551| |N|Tatternack Steelforge (41.70, 46.67) in Vendetta Point| |NPC|3433|
 T Winnoa Pineforest |QID|24807| |N|Winnoa Pineforest (41.56, 46.65) in Vendetta Point| |NPC|37717|
 A Lion's Pride |QID|24552| |N|Jorn Skyseer (41.56, 47.07) in Vendetta Point| |NPC|3387|
-f Vendetta Point |QID|24546| |N|Grab Vendetta Point flight path (41.56, 47.60)| |NPC|52060|
+f Vendetta Point |QID|24546| |N|Grab Vendetta Point Flight Path (41.56, 47.60)| |NPC|52060|
+N As You Go... |QID|24546| |N|As you go, kill any combination of 5 Plains Prowlers or Plains Pridemanes and collect 10 [Theramore Merit Badges] from Northwatch Recons. Tick this step.|
 C A Line in the Dirt |QID|24546| |N|Click on the flag and defend it from the streams of NPCs that attack (46.39, 47.18) in Fields of Blood|
 C Lion's Pride |QID|24552.1| |N|Kill any combination of 5 Plains Prowlers or Plains Pridemanes (41.56, 50.45) in The Great Gate| |NPC|37206, 37207|
 C Meet the New Boss |QID|24551.1| |N|Collect 10 [Theramore Merit Badges] from Northwatch Recons (46.32, 47.23) in Fields of Blood| |NPC|37585|
@@ -145,11 +147,11 @@ T Changing of the Gar'dul |QID|24591| |N|Desolation Hold (40.81, 69.28)|
 A Claim the Battle Scar |QID|24618| |N|Warlord Bloodhilt (41.58, 69.79) in Desolation Hold| |NPC|37679|
 A Intelligence Warfare |QID|24634| |N|Warlord Bloodhilt (41.61, 69.81) in Desolation Hold| |NPC|37679|
 C Intelligence Warfare |QID|24634.1| |N|Collect the [SI:7 Briefings] from an Awkward Gangly Orc. The item also drops from Barrens Operatives (41.55, 68.13) in Desolation Hold| |NPC|38033, 37924|
-N As you go... |N|Use [Tomusa's Hook] on the Flying Wildhammer Mercenaries, to bring them down and kill them for the quest 'Flightmare' (45.42, 69.63)| |U|50031| |NPC|37977|
+N As you go... |N|Use [Tomusa's Hook] on the Flying Wildhammer Mercenaries, to bring them down and kill them for the quest 'Flightmare'. Then use [Calder's Bonesaw] on corpses within the Battlescar and collect 15 [Severed Extremities]. (45.42, 69.63)| |U|50031| |NPC|37977|
 C Claim the Battle Scar |QID|24618| |N|Find the flag marker and kill 10 Triumph Vanguards (45.28, 69.51) in Battlescar| |U|50031| |NPC|37923|
 C Flightmare |QID|24631.1| |N|Kill 5 Wildhammer Mercenaries. They are flying around on Triumph War Gryphons. Target one of the gryphons and use [Tomusa's Hook] to dismount the mercenary then kill him (45.42, 69.63) in Battlescar| |U|50031| |NPC|37978, 37977|
-C Silithissues |QID|24654.1| |N|Use the [Bucket of Burning Pitch] on the big termite mounds located outside the main walls of the fortress. Then kill 10 Silithid Swarmers as they emerge (43.25, 69.37) in Desolation Hold| |U|50128| |NPC|3252|
 C Parts-is-Parts |QID|24619.1| |N|Use [Calder's Bonesaw] on corpses within the Battlescar and collect 15 [Severed Extremities] (45.88, 68.28) in Battlescar| |U|49948| |OBJ|14|
+C Silithissues |QID|24654.1| |N|Use the [Bucket of Burning Pitch] on the big termite mounds located outside the main walls of the fortress, then kill 10 Silithid Swarmers as they emerge (43.25, 69.37) in Desolation Hold| |U|50128| |NPC|3252|
 
 R Desolation Hold |N|Travel to Desolation Hold (41.67, 69.84)| |QID|24654|
 T Claim the Battle Scar |QID|24618| |N|Warlord Bloodhilt (41.67, 69.84) in Desolation Hold| |NPC|37679|
@@ -172,12 +174,12 @@ T Smarts-is-Smarts |QID|24621| |N|Calder Gray (42.63, 70.16) in Desolation Hold|
 R Spearhead |N|Travel to Spearhead (49.19, 82.35)| |QID|24684|
 T Tauren Vengeance |QID|24632| |N|Gann Stonespire (49.19, 82.35) in Spearhead| |NPC|3341|
 A A Weezil in the Henhouse |QID|24684| |N|Gann Stonespire (49.19, 82.35) in Spearhead| |NPC|3341|
-C A Weezil in the Henhouse |QID|24684| |N|Kill 10 Bael'Dun Dwarves (Riflemen, Soldiers and Officers). Then find Weezil Slipshadow, he's wearing a cheese hat. He's on the first level. Just go to the right at the entrance (49.83, 86.76) Bael'dun Keep| |NPC|3377, 3376, 3378, 38140|
-T A Weezil in the Henhouse |QID|24684| |N|Weezil Slipshadow (50.69, 86.79) Bael'dun Keep| |NPC|38140|
-A Dwarf Fortress |QID|24685| |N|Weezil Slipshadow (50.69, 86.79) Bael'dun Keep| |NPC|38140|
+C A Weezil in the Henhouse |QID|24684| |N|Kill 10 Bael'Dun Dwarves (Riflemen, Soldiers and Officers), then find Weezil Slipshadow. He's wearing a cheese hat. He's on the first level. Just go to the right at the entrance (49.83, 86.76) Bael'dun Keep| |NPC|3377, 3376, 3378, 38140|
+T A Weezil in the Henhouse |QID|24684| |N|Weezil Slipshadow (50.69, 86.79) on the main floor of Bael'dun Keep| |NPC|38140|
+A Dwarf Fortress |QID|24685| |N|Weezil Slipshadow (50.69, 86.79) on the main floor of Bael'dun Keep| |NPC|38140|
 C Dwarf Fortress |QID|24685| |N|Collect the [Bael'Dun Fortress Schematics] from in the basement. Take the stairs next to the goblin to get there (50.13, 86.73) Bael'dun Keep| |OBJ|440|
 T Dwarf Fortress |QID|24685| |N|Weezil Slipshadow (50.72, 86.78) Bael'dun Keep| |NPC|38140|
-A Sabotage! |QID|24747| |N|Weezil Slipshadow (50.72, 86.78) Bael'dun Keep| |NPC|38140|
+A Sabotage! |QID|24747| |N|Weezil Slipshadow (50.72, 86.78) on the main floor of Bael'dun Keep| |NPC|38140|
 C Sabotage! |QID|24747| |N|Sabotage a Dwarven Artillery Shell. It's a large blue bomb, just right click it and get out of there before it explodes (50.69, 86.01) Bael'dun Keep| |NPC|38190|
 T Sabotage! |QID|24747| |N|Gann Stonespire (49.20, 82.37) in Spearhead| |NPC|3341|
 A Next of Kin |QID|25292| |N|Nato Raintree (49.20, 82.37) in Spearhead| |NPC|39697|
@@ -189,8 +191,9 @@ A Concern for Mankrik |QID|24604| |N|Mahka (45.21, 85.41) in Firestone Point| |N
 T Concern for Mankrik |QID|24604| |N|Mankrik (44.55, 88.05)| |NPC|37847|
 A Don't Stop Bereavin' |QID|24603| |N|Mankrik (44.55, 88.05)| |NPC|37847|
 C The Disturbed Earth |QID|24824.1| |N|Collect 4 [Disturbed Earth Fragments] from Disturbed Earth Elementals (48.06, 78.58)| |NPC|37553|
-C Don't Stop Bereavin' |QID|24603.1| |N|Kill 13 Razormane quilboar (41.47, 84.17)| |NPC|37560, 37661, 37660|
+K Quilboars |N|Kill Quilboars (43.06, 81.45) until you get the item called [Carved Boar Idol]| |L|49932| |NPC|37560, 37661, 37660|
 A Blood of the Barrens |QID|24606| |N|The item [Carved Boar Idol] starts this quest. Drops from Razormane Pathfinders, Warfrenzies and Seers (43.06, 81.45)| |U|49932| |NPC|37560, 37661, 37660|
+C Don't Stop Bereavin' |QID|24603.1| |N|Kill 13 Razormane quilboar (41.47, 84.17)| |NPC|37560, 37661, 37660|
 C Blood of the Barrens |QID|24606.1| |N|Collect 6 [Blood Shard Trinkets] from Razormane Pathfinders, Warfrenzies and Seers (42.01, 84.45)| |NPC|37560, 37661, 37660|
 
 R Firestone Point |N|Travel to Firestone Point (45.14, 85.27)| |QID|24653|
