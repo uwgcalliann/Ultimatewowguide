@@ -151,7 +151,7 @@ N 2 [Un'Goro Gorilla Pelts] |QID|24717.1| |N|Collect 2 [Un'Goro Gorilla Pelts] f
 T Chasing A-Me 01 |QID|24714| |N|A-Me 01 (63.76, 19.63) in Fungal Rock| |NPC|9623|
 A Repairing A-Me 01 |QID|24715| |N|A-Me 01 (63.76, 19.63) in Fungal Rock| |NPC|9623|
 N [Un'Goro Coconut] |N|Get an Un'Goro Coconut here or another tree in this area (62.08, 19.24) in Fungal Rock| |T| |L|50237| |QID|24715| |OBJ|9448|
-N [Cracked Un'Goro Coconut]  |QID|24715| |N|Use the [Un'Goro Coconut] on the rock by A-Me 01 to collect [Cracked Un'Goro Coconut]| |U|50237| |L|50238| |T|
+N [Cracked Un'Goro Coconut]  |QID|24715| |N|Use the [Un'Goro Coconut] on the rock by A-Me 01 (64.07, 19.98) to collect [Cracked Un'Goro Coconut]| |U|50237| |L|50238| |T|
 C Repairing A-Me 01 |QID|24715.1| |N|Open [Cracked Un'Goro Coconut] and collect the [High Viscosity Coconut Milk] (64.07, 19.91) in Fungal Rock| |U|50238|
 T Repairing A-Me 01 |QID|24715| |N|A-Me 01 (63.89, 19.84) in Fungal Rock| |NPC|9623|
 A Serving A-Me 01 |QID|24926| |N|A-Me 01 (63.89, 19.84) in Fungal Rock| |NPC|9623|
@@ -205,11 +205,13 @@ R Marshal's Stand |N|Travel to Marshal's Stand (55.31, 62.27)| |QID|24694|
 T The Western Pylon |QID|24723| |N|J.D. Collie (54.28, 62.48) in Marshal's Stand| |NPC|9117|
 T The Northern Pylon |QID|24722| |N|J.D. Collie (54.28, 62.48) in Marshal's Stand| |NPC|9117|
 A The Shaper's Terrace |QID|24694| |N|Un'Goro Examinant (53.91, 62.51) in Marshal's Stand| |NPC|38504|
+
+R The Shaper's Terrace |QID|24694| |N|Speak to the Un'Goro Examinant (53.91, 62.51) and travel to The Shaper's Terrace| |NPC|38504|
 T The Shaper's Terrace |QID|24694| |N|Nablya (83.37, 45.97) in The Shaper's Terrace| |NPC|38502|
 A Ever Watching From Above |QID|24695| |N|Nablya (83.37, 45.97) in The Shaper's Terrace| |NPC|38502|
-N Bloodpetal Observation |QID|24695.1| |N|Pull this lever behind Nablya (83.52, 45.35) to complete the Bloodpetal test (66.87, 29.50) The Roiling Gardens|
-N Pterrordax Observation |QID|24695.4| |N|Pull this lever behind Nablya (83.96, 45.67) to complete the Pterrordax test, just fly straight up (37.82, 33.47) The Screaming Reaches|
-N Gorilla Observation |QID|24695.3| |N|Pull this lever behind Nablya (83.94, 46.37) to complete the Gorilla test (65.59, 15.93) in Fungal Rock|
+N Bloodpetal Observation |QID|24695.1| |N|Pull this lever behind Nablya (83.52, 45.35) to complete the Bloodpetal test. Just fight another bloodpetal (66.87, 29.50)|
+N Pterrordax Observation |QID|24695.4| |N|Pull this lever behind Nablya (83.96, 45.67) to complete the Pterrordax test. Just fly straight up once you teleport and control a Pterrordactyl (37.82, 33.47)|
+N Gorilla Observation |QID|24695.3| |N|Pull this lever behind Nablya (83.94, 46.37) to complete the Gorilla test (65.59, 15.93) in Fungal Rock. Just speak to each type of gorilla once|
 N Diemetradon Observation |QID|24695.2| |N|Pull this lever behind Nablya (83.53, 46.67) to complete the Diemetradon test. You don't have to kill any NPCs for this test, just bite 5 of them and it's done (55.17, 62.18) in Marshal's Stand|
 T Ever Watching From Above |QID|24695| |N|Nablya (83.42, 46.00) in The Shaper's Terrace| |NPC|38502|
 N Level 52-54 |N|Blizzard made leveling in Kalimdor a bit awkward, you will need to reach at least level 54 to continue, you can either do Winterspring (50-52) > Silithus (54-56) or go to Swamp of Sorrows (52-54) > Blasted Lands (54-58) Alternatively you can queue for some PVP or Dungeons until you reach level 54 then you can begin Silithus guide. At level 54 there is also a portal in Silithus that can take you direct to Blasted Lands which is better, tick this step| |PL|54| |QID|28859|

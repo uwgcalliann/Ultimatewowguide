@@ -8,15 +8,13 @@ A Continue Your Training: Master Yoon |QID|31836| |N|Master Hight (48.60, 42.72)
 C Continue Your Training: Master Yoon |QID|31836| |N|Speak with Master Yoon in the Peak of Serenity and complete your training with him at the Training Grounds (48.69, 40.66)| |NPC|66073| |C|Monk| |Z|809|
 T Continue Your Training: Master Yoon |QID|31836| |N|Master Hight (48.60, 42.70) in Shrine of the Ox| |NPC|66260| |C|Monk| |Z|809|
 
-R Winterspring |N|Travel to Winterspring (21.03, 46.24) | |QID|28524|
+R Winterspring |N|Travel to Winterspring through Timbermaw Hold (21.03, 46.24) | |QID|28524|
 N Abandon 'Warchief's Command: Winterspring!' |QID|28545| |N|Abandon 'Warchief's Command: Winterspring!' to accept 'Delivery for Donova', tick this step| |O|
 N Abandon 'Winterspring!' |QID|28768| |N|Abandon 'Winterspring!' to accept 'Delivery for Donova', tick this step| |O|
-A Delivery for Donova |QID|28524| |N|Salfa (21.03, 46.24) if you won't receive this if you already have the quest 'Winterspring!' abandon that one and accept this one because this one worth 4x more XP| |NPC|11556|
+A Delivery for Donova |QID|28524| |N|Salfa (21.03, 46.24) in Winterspring| |NPC|11556|
 A Winterfall Activity |QID|28522| |N|Salfa (21.03, 46.24) in Winterspring| |NPC|11556|
-A Strange Life Forces |QID|28656| |N|Frostfire Hot Springs (24.39, 53.09)| |O|
 
 R Snowden Chalet |N|Travel to Snowden Chalet (25.17, 58.50)| |QID|28460|
-T Strange Life Forces |QID|28656| |N|Witch Doctor Mau'ari (25.17, 58.50) in Snowden Chalet| |O| |NPC|10307|
 T Delivery for Donova |QID|28524| |N|Donova Snowden (25.17, 58.50) in Snowden Chalet| |NPC|9298|
 T Warchief's Command: Winterspring! |QID|28545| |N|Donova Snowden (25.17, 58.50) in Snowden Chalet| |O| |NPC|9298|
 T Wintersrping! |QID|28768| |N|Donova Snowden (25.17, 58.50) in Snowden Chalet| |O| |NPC|9298|
@@ -32,6 +30,8 @@ A Mystery Goo |QID|28467| |N|Winterfall Cauldron (24.42, 47.62) in Frostfire Hot
 C Threat of the Winterfall |QID|28460.1| |N|Kill 15 Winterfall furbolg of any kind near the Frostfire Hot Springs (25.02, 48.13) in Frostfire Hot Springs| |NPC|7440, 7441|
 C Winterfall Activity |QID|28522.1| |N|Collect 10 [Winterfall Spirit Beads] from Winterfall furbolg (26.80, 51.75) in Frostfire Hot Springs| |NPC|7440, 7441|
 T Winterfall Activity |QID|28522| |N|Salfa (21.08, 46.25)| |NPC|11556|
+A Strange Life Forces |QID|28656| |N|Frostfire Hot Springs (24.39, 53.09)| |O|
+T Strange Life Forces |QID|28656| |N|Witch Doctor Mau'ari (25.17, 58.50) in Snowden Chalet| |O| |NPC|10307|
 
 R Snowden Chalet |N|Travel to Snowden Chalet (25.12, 58.55)| |QID|28469| 
 T Threat of the Winterfall |QID|28460| |N|Donova Snowden (25.12, 58.55) in Snowden Chalet| |NPC|9298|
