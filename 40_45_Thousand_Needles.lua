@@ -12,7 +12,7 @@ R Camp Mojache |QID|25356| |N|Travel to Camp Mojache (74.64, 42.91)| |O| |Z|121|
 A To the Summit |QID|25356| |N|Jawn Highmesa (74.64, 42.91) in Camp Mojache| |O| |Z|121| |NPC|39893| |MAP|121| |OID|25487|
 N Westreach Summit |QID|25356| |N|Talk to Shyn to borrow a wind rider to get to Westreach Summit (75.48, 44.63) in Camp Mojache| |O| |Z|121| |NPC|8020| |V| |MAP|121| |OID|25487|
 
-R Mudsprocket |N|Travel Mudsprocket (41.86, 73.88)| |QID|25478| |O| |Z|141| |MAP|141, 607, 321, 11| |OID|25487|
+R Mudsprocket |N|Travel to Mudsprocket (41.86, 73.88)| |QID|25478| |O| |Z|141| |MAP|141, 607, 321, 11| |OID|25487|
 T Warchief's Command: Thousand Needles! |QID|28504| |N|Nyse (41.86, 73.88) in Mudsprocket| |O| |Z|141| |NPC|40344| |OID|25487|
 A To the Summit |QID|25478| |N|Nyse (41.86, 73.88) in Mudsprocket| |O| |Z|141| |NPC|40344| |MAP|141| |OID|25487|
 N Westreach Summit |QID|25478| |N|Talk to Dyslix for a flight to Westreach Summit in Thousand Needles (42.88, 72.37) in Mudsprocket| |O| |Z|141| |NPC|23612| |V| |MAP|141| |OID|25487|
@@ -34,7 +34,7 @@ T Do Me a Favor? |QID|25505| |N|Razzeric (77.16, 74.44) in Fizzle & Pozzik's Spe
 A Down in the Deeps |QID|25516| |N|Razzeric (77.16, 74.44) in Fizzle & Pozzik's Speedbarge| |NPC|40487|
 A Bar Fight! |QID|25518| |N|Zamek (78.05, 73.61) in Fizzle & Pozzik's Speedbarge| |NPC|40556|
 B [Bottle of Grog] |QID|25518| |N|Buy [Bottle of Grog] from Daisy (77.60, 73.68) (76.55, 74.75) in Fizzle & Pozzik's Speedbarge| |L|54747| |NPC|40832|
-h Fizzle & Pozzik's Speedbarge |N|Set hearth at Fizzle & Pozzik's Speedbarge, talk to Daisy (76.55, 74.75)| |QID|25518| |NPC|40832|
+h Speedbarge Bar |N|Set hearth at Speedbarge Bar. Talk to Daisy. (76.55, 74.75)| |QID|25518| |NPC|40832|
 C Bar Fight! |QID|25518| |N|Target a gnome and throw the [Bottle of Grog] to start a bar fight (76.59, 74.73) in Fizzle & Pozzik's Speedbarge| |U|54747|
 T Bar Fight! |QID|25518| |N|Zamek (78.08, 73.64) in Fizzle & Pozzik's Speedbarge| |NPC|40556|
 
@@ -42,11 +42,11 @@ R Raceway Ruins |N|Go underwater to Raceway Ruins (79.51, 75.11)| |QID|25526|
 A In the Outhouse |QID|25526| |N|Submerged Outhouse (79.51, 75.11) in Raceway Ruins| |OBJ|3332|
 C Down in the Deeps |QID|25516.1| |N|Collect 10 [Rocket Car Parts] from the ocean floor (77.35, 76.79) in Raceway Ruins| |OBJ|450|
 K Southsea Treasure Hunters |N|Kill the southsea treasure hunters until you find [Pirate's Crowbar] (79.00, 77.90)| |L|54821| |QID|25526| |NPC|40449|
-C In the Outhouse |QID|25526.1| |N|Kill the southsea treasure hunters to loot the [Pirate's Crowbar]. Return to the outhouse and use the crowbar on the door (79.57, 75.18) in Raceway Ruins| |U|54821| |NPC|40449|
+C In the Outhouse |QID|25526.1| |N|Return to the outhouse and use the crowbar on the door (79.57, 75.18) in Raceway Ruins| |U|54821| |NPC|40449|
 T In the Outhouse |QID|25526| |N|Submerged Outhouse (79.57, 75.18) in Raceway Ruins| |OBJ|3332|
 T Down in the Deeps |QID|25516| |N|Razzeric (77.17, 74.41) in Fizzle & Pozzik's Speedbarge| |NPC|40487|
 A Pirate Accuracy Increasing |QID|25533| |N|Razzeric (77.17, 74.41) in Fizzle & Pozzik's Speedbarge| |NPC|40487|
-N Get boat from Griznak |QID|25533.1| |N|Speak to Griznak and get a River Boat(79.18, 76.61) in Fizzle & Pozzik's Speedbarge| |NPC|40727| |V|
+N Get boat from Griznak |QID|25533.1| |N|Speak to Griznak and get a River Boat (78.75, 75.97) in Fizzle & Pozzik's Speedbarge| |NPC|40727| |V|
 
 C Pirate Accuracy Increasing |QID|25533.2| |N|Use the Frost Cannon to extinguish 15 fires. Stay on the boat to complete the next quest (77.23, 77.96) Raceway Ruins |
 T Pirate Accuracy Increasing |QID|25533| |N|Raceway Ruins (78.15, 77.58)|
@@ -64,6 +64,7 @@ R Sunken Dig Site |N|Travel to the Sunken Dig Site (69.86, 85.07)| |QID|28045| |
 T Special Delivery for Brivelthwerp |QID|28042| |N|Brivelthwerp (69.86, 85.07) in Sunken Dig Site| |NPC|47383|
 A The Greatest Flavor in the World! |QID|28045| |N|Brivelthwerp (69.86, 85.07) in Sunken Dig Site| |NPC|47383|
 A We All Scream for Ice Cream... and then Die! |QID|28051| |N|Brivelthwerp (69.86, 85.07) in Sunken Dig Site| |NPC|47383|
+N As You Go... |QID|28051| |N|As you go, collect 8 [Scoops of Silithid Goo] from Silithid Ravagers. Tick this step.|
 C We All Scream for Ice Cream... and then Die! |QID|28051| |N|Swim down and attach the tug's tow hook to 10 Dead Employees, to reel them up (70.84, 84.02) in Sunken Dig Site| |NPC|47446|
 C The Greatest Flavor in the World! |QID|28045.1| |N|Collect 8 [Scoops of Silithid Goo] from Silithid Ravagers (69.45, 82.09) in Sunken Dig Site| |NPC|48177|
 T The Greatest Flavor in the World! |QID|28045| |N|Brivelthwerp (69.95, 85.11) in Sunken Dig Site| |NPC|47383|
@@ -91,7 +92,7 @@ R Splithoof Heights |N|Travel to Splithoof Heights (88.22, 58.42) (88.63, 54.92)
 T Negotiations |QID|25745| |N|Riznek (88.63, 54.92) in Splithoof Heights| |NPC|41184|
 A Get Koalbeard! |QID|25757| |N|Riznek (88.63, 54.92) in Splithoof Heights| |NPC|41184|
 A The Ancient Brazier |QID|25762| |N|Skycaller Vrakthris (90.10, 53.10) in Splithoof Heights| |NPC|40082|
-C Get Koalbeard! |QID|25757.1| |N|Collect the [Alliance's Proposal]. Kravel Koalbeard is in the big tent at the top of hill, he becomes stunned once his health is down, allowing you to steal the proposal (90.01, 56.06) (86.86, 51.47) in Splithoof Heights| |NPC|41196|
+C Get Koalbeard! |QID|25757.1| |N|Collect the [Alliance's Proposal]. Kravel Koalbeard is in the big tent at the top of hill, he becomes stunned once his health is down, allowing you to steal the proposal (86.86, 51.47) in Splithoof Heights| |NPC|41196|
 T Get Koalbeard! |QID|25757| |N|Riznek (88.63, 54.92) in Splithoof Heights| |NPC|41184|
 A Fool's Gold |QID|25775| |N|Riznek (88.63, 54.92) in Splithoof Heights| |NPC|41184|
 
@@ -170,6 +171,7 @@ T Together Again |QID|27276| |N|Freewind Brave (42.21, 47.92) in Darkcloud Pinna
 A No Weapons For You! |QID|27311| |N|Freewind Brave (42.21, 47.92) in Darkcloud Pinnacle| |NPC|45278|
 A Darkcloud Grimtotem |QID|27313| |N|Freewind Brave (42.21, 47.92) in Darkcloud Pinnacle| |NPC|45278|
 A Grimtotem Chiefs: Isha Gloomaxe |QID|27315| |N|Freewind Brave (42.21, 47.92) in Darkcloud Pinnacle| |NPC|45278|
+N As You Go... |QID|27315| |N|As you go, burn 8 Grimtotem Weapon Racks and kill 20 Grimtotem tauren. Tick this step.|
 C Grimtotem Chiefs: Isha Gloomaxe |QID|27315.1| |N|Kill Isha Gloomaxe (42.22, 48.30) (42.21, 45.59) (42.19, 45.10) (43.07, 43.67) in Darkcloud Pinnacle| |NPC|45387|
 T Grimtotem Chiefs: Isha Gloomaxe |QID|27315| |N|Freewind Brave (43.61, 43.73) in Darkcloud Pinnacle| |NPC|45278|
 A Grimtotem Chiefs: Elder Stormhoof |QID|27319| |N|Freewind Brave (43.64, 43.73) in Darkcloud Pinnacle| |NPC|45278|
@@ -206,6 +208,7 @@ R Highperch |N|Travel to Highperch (12.80, 33.95)| |QID|28086| |U|55121|
 T Trouble at Highperch |QID|28085| |N|Pao'ka Swiftmountain (12.80, 33.95) in Highperch| |NPC|47471|
 A Free the Pridelings |QID|28086| |N|Pao'ka Swiftmountain (12.80, 33.95) in Highperch| |NPC|47471|
 A Death to all Trappers! |QID|28087| |N|Pao'ka Swiftmountain (12.80, 33.95) in Highperch| |NPC|47471|
+N As You Go... |QID|28087| |N|As you go, free 12 Highperch Pridelings, trapped in nets. Tick this step.|
 C Death to all Trappers! |QID|28087.1| |N|Collect 8 [Trapper Nets] from Twilight Trappers (13.25, 38.33) in Highperch| |NPC|47479|
 C Free the Pridelings |QID|28086.1| |N|Free 12 Highperch Pridelings, trapped in nets (13.86, 39.49) in Highperch| |NPC|47481|
 T Free the Pridelings |QID|28086| |N|Pao'ka Swiftmountain (12.78, 33.96) in Highperch| |NPC|47471|
@@ -216,7 +219,7 @@ T Release Heartrazor |QID|28088| |N|Pao'ka Swiftmountain (12.75, 34.00) in Highp
 A The Twilight Skymaster |QID|28098| |N|Pao'ka Swiftmountain (12.75, 34.00) in Highperch| |NPC|47471|
 
 F Twilight Aerie |N|Get a flight from Heartrazor (12.94, 34.03) to Twilight Aerie| |QID|28098| |NPC|47503|
-C The Twilight Skymaster |QID|28098| |N|Kill Twilight Skymaster Richtofen (12.94, 34.03) Twilight Aerie| |NPC|47510|
+C The Twilight Skymaster |QID|28098| |N|Kill Twilight Skymaster Richtofen (19.45, 48.73) Twilight Aerie| |NPC|47510|
 
 F Highperch |N|Hop back on Heartrazor for a ride back (16.04, 45.76)| |QID|28124| |NPC|47507|
 T The Twilight Skymaster |QID|28098| |N|Pao'ka Swiftmountain (12.81, 34.03) in Highperch| |NPC|47471|
@@ -236,7 +239,7 @@ U [Bulwark Disguise] |N|Use the [Bulwark Disguise] (28.16, 56.79) in Twilight Bu
 K Elementalist Starion |QID|28136.3| |N|Kill Elementalist Starion (27.98, 57.28) in Twilight Bulwark| |U|63071| |NPC|47619|
 K Commander Fastfuse |QID|28136.2| |N|Kill Commander Fastfuse (30.08, 54.21) in Twilight Bulwark| |U|63071| |NPC|47620|
 K Codemaster Deethuk |QID|28136.1| |N|Kill Codemaster Deethuk (31.24, 59.70) in Twilight Bulwark| |U|63071| |NPC|47602|
-N [Codemaster's Code] |QID|28139.1| |N|Kill Codemaster Deethuk and collect the [Codemaster's Code] (31.25, 59.58) in Twilight Bulwark| |T| |NPC|47602|
+N [Codemaster's Code] |QID|28139.1| |N|Kill Codemaster Deethuk and collect the [Codemaster's Code] from the device in front of him (31.25, 59.58) in Twilight Bulwark| |T| |NPC|47602|
 T Codemaster's Code |QID|28139| |N|Lakota Windsong (30.46, 49.31) in Twilight Bulwark| |NPC|47580|
 T Behind You! |QID|28136| |N|Lakota Windsong (30.46, 49.31) in Twilight Bulwark| |NPC|47580|
 A The Elder Crone |QID|28140| |N|Lakota Windsong (30.46, 49.31) in Twilight Bulwark| |NPC|47580|

@@ -114,7 +114,7 @@ A Whisperwind Grove |QID|28306| |N|Kelnir Leafsong (41.31, 49.98) in Bloodvenom 
 
 R Whisperwind Grove |N|Travel to Whisperwind Grove (43.27, 30.47)| |QID|28360|
 T Whisperwind Grove |QID|28306| |N|Tender Puregrove (43.27, 30.47) in Whisperwind Grove| |NPC|48459|
-A Running their Course |QID|28360| |N|Tender Puregrove (43.27, 30.47) in Whisperwind Grove| |NPC|48459|
+A Running Their Course |QID|28360| |N|Tender Puregrove (43.27, 30.47) in Whisperwind Grove| |NPC|48459|
 A Squirrely Clean |QID|28361| |N|Tender Puregrove (43.26, 30.40) in Whisperwind Grove| |NPC|48459|
 f Whisperwind Grove |QID|28361| |N|Grab the Whisperwind Grove Flight Path (43.65, 28.69)| |NPC|43073| |PL|45|
 A Collecting Corruption |QID|28341| |N|Elessa Starbreeze (43.94, 27.93) in Whisperwind Grove| |NPC|48339|
@@ -165,7 +165,7 @@ A The Last Protector |QID|28224| |N|Sapling Protector (50.47, 22.84) in Irontree
 C The Last Protector |QID|28224| |N|Kill the Withered Protector (53.08, 24.30) in Irontree Woods| |NPC|7149|
 T The Last Protector |QID|28224| |N|Flourishing Protector (53.08, 24.30) in Irontree Woods| |NPC|48044|
 A Rejoining the Forest |QID|28228| |N|Flourishing Protector (53.08, 24.30) in Irontree Woods| |NPC|48044|
-C Rejoining the Forest |QID|28228| |N|Bring the Fluorishing Protector back to the hill (48.66, 25.19) in Irontree Woods| |NPC|48044|
+C Rejoining the Forest |QID|28228| |N|Bring the Flourishing Protector back to the hill (48.66, 25.19) in Irontree Woods| |NPC|48044|
 T Rejoining the Forest |QID|28228| |N|Irontree Woods (48.65, 25.18)|
 
 R Sindweller's Rise |N|Travel to Sindweller's Rise (45.60, 20.13)| |QID|28217|
@@ -182,7 +182,7 @@ C The Fall of Tichondrius |QID|28257| |N|Help defeat Tichondrius (45.41, 19.80) 
 T The Fall of Tichondrius |QID|28257| |N|Feronas Sindweller (45.57, 20.08) in Sindweller's Rise| |NPC|47923|
 A Deceivers In Our Midst |QID|28261| |N|Feronas Sindweller (45.57, 20.08) in Sindweller's Rise| |NPC|47923|
 
-R Jadefire Run |N|Travel to Jadefire Run (45.54, 20.08)| |QID|28261|
+R Jadefire Run |N|Travel to Jadefire Run (46.86, 17.05) (45.21, 15.78)| |QID|28261|
 U [Sindweller Blindfold] |N|Use [Sindweller Blindfold] in Jadefire Run| |U|63419| |QID|28261|
 C Deceivers In Our Midst |QID|28261| |N|Use the [Sindweller Blindfold] to see the demons in disguise and kill 12 Jadefire Shifters (43.23, 16.96) in Jadefire Run| |U|63419| |NPC|48154|
 T Deceivers In Our Midst |QID|28261| |N|Feronas Sindweller (45.53, 20.09) in Jadefire Run| |NPC|47923|
@@ -214,8 +214,8 @@ C Slap and Cap |QID|28336.1| |N|Slap 7 Panicked Workers to make them cap the oil
 C Is Your Oil Running? |QID|28339.1| |N|Collect 10 [Crude Tarballs] from Oily Sludges (52.15, 16.98) in Irontree Clearing| |NPC|48315|
 T Slap and Cap |QID|28336| |N|Darla Drilldozer (56.29, 8.23) in Irontree Clearing| |NPC|48127|
 T Is Your Oil Running? |QID|28339| |N|Darla Drilldozer (56.29, 8.23) in Irontree Clearing| |NPC|48127|
-A Pikwik in Peril |QID|28380| |N|Darla Drilldozer (56.29, 8.23) in Irontree Clearing| |NPC|48127|
-T Pikwik in Peril |QID|28380| |N|Foreman Pikwik (54.73, 18.33) in Irontree Clearing| |NPC|48333|
+A Pikwik In Peril |QID|28380| |N|Darla Drilldozer (56.29, 8.23) in Irontree Clearing| |NPC|48127|
+T Pikwik In Peril |QID|28380| |N|Foreman Pikwik (54.73, 18.33) in Irontree Clearing| |NPC|48333|
 A A Bomb Deal |QID|28340| |N|Foreman Pikwik (54.73, 18.33) in Irontree Clearing| |NPC|48333|
 A Turn it Off! Turn it Off! |QID|28335| |N|Foreman Pikwik (54.73, 18.33) in Irontree Clearing| |NPC|48333|
 C A Bomb Deal |QID|28340.1| |N|Collect 8 [Irontree Explosives]. The bombs are on the ground in the cave (55.49, 18.59) (58.45, 22.24) Irontree Cavern| |OBJ|9055|
@@ -226,21 +226,21 @@ T A Bomb Deal |QID|28340| |N|Foreman Pikwik (54.60, 18.40) in Irontree Clearing|
 T Fire in the Hole! |QID|28368| |N|Darla Drilldozer (56.28, 8.24) in Irontree Clearing| |NPC|48127|
 A Timbermaw Hold |QID|28373| |N|Darla Drilldozer (56.28, 8.23) in Irontree Clearing| |NPC|48127|
 
-R Timbermaw Hold |N|Travel to Timbermaw Hold (64.01, 10.40)| |QID|28338|
+R Timbermaw Hold |N|Travel to Timbermaw Hold (63.79, 16.87) (64.01, 10.40)| |QID|28338|
 T Timbermaw Hold |QID|28373| |N|Nafien (64.01, 10.40) in Timbermaw Hold| |NPC|15395|
 A Deadwood of the North |QID|28338| |N|Nafien (64.04, 10.40) in Timbermaw Hold| |NPC|15395|
+A Disarming Bears |QID|28366| |N|Nafien (63.99, 10.38) in Timbermaw Hold| |NPC|15395|
 A Stupid Drizle! |QID|28362| |N|Ferli (64.08, 10.39) in Timbermaw Hold| |NPC|48461|
 T Stupid Drizle! |QID|28362| |N|Drizle (60.63, 9.54) in Felpaw Village| |NPC|47556|
 A The Chieftain's Key |QID|28364| |N|Drizle (60.62, 9.58) in Felpaw Village| |NPC|47556|
 C The Chieftain's Key |QID|28364.1| |N|Kill Chieftain Bloodmaw and collect [Drizle's Key] (62.06, 9.83) in Felpaw Village| |NPC|9462|
+C Disarming Bears |QID|28366.1| |N|Collect 7 [Deadwood Weapons]. Look for the piles of weapons (62.01, 9.67) in Felpaw Village| |OBJ|10202|
 C Deadwood of the North |QID|28338.1| |N|Kill 15 Deadwood Furbolg of any kind (61.69, 8.56) in Felpaw Village| |NPC|7157, 7158, 7156|
 T The Chieftain's Key |QID|28364| |N|Drizle (60.56, 9.52) in Felpaw Village| |NPC|47556|
 A Mystery Goo |QID|28467| |N|Deadwood Cauldron (59.63, 8.14) in Felpaw Village| |O| |OBJ|216|
 T Deadwood of the North |QID|28338| |N|Nafien (64.02, 10.38) in Timbermaw Hold| |NPC|15395|
-A Disarming Bears |QID|28366| |N|Nafien (63.99, 10.38) in Timbermaw Hold| |NPC|15395|
-C Disarming Bears |QID|28366.1| |N|Collect 7 [Deadwood Weapons]. Look for the piles of weapons (62.01, 9.67) in Felpaw Village| |OBJ|10202|
 T Disarming Bears |QID|28366| |N|Nafien (64.01, 10.38) in Timbermaw Hold| |NPC|15395|
-A Wintersrping! |QID|28768| |N|Nafien (64.01, 10.38) in Timbermaw Hold| |NPC|15395|
+A Speak to Salfa |QID|28521| |N|Nafien (64.01, 10.38) in Timbermaw Hold| |NPC|15395|
 
 N Guide Complete, Continue to Winterspring (52-55) |N|UltimateWoWGuide.com - Tick to continue|
 

@@ -16,7 +16,7 @@ A Butcherbot |QID|25112| |N|Driz Plunkbow (52.23, 28.07) in Gadgetzan| |NPC|3917
 f Gadgetzan |N|Grab the Gadgetzan Flight Path (52.08, 27.61)| |QID|24910| |NPC|7824| |PL|45|
 h Gadgetzan |N|Set Hearth to Gadgetzan (52.60, 27.03)| |QID|25112| |NPC|7733|
 
-R Abyssal Sands |N|Travel to Abyssal Sands (51.76, 38.70)| |QID|25112|
+R Abyssal Sands |N|Travel to Abyssal Sands (51.56, 40.40)| |QID|25112|
 C Butcherbot |QID|25112.1| |N|Use the [Butcherbot Control Gizmo] to harvest 10 Glasshide Basilisk corpses (51.76, 38.70) in Abyssal Sands| |U|52715| |NPC|5419|
 C Seaside Salvage |QID|24906.1| |N|Collect 7 crates of [Steamwheedle Supplies] from the water (54.82, 38.64)| |OBJ|7539|
 C Puddle Stomping |QID|24907.1| |N|Kill 8 Tidal Striders (53.53, 36.64)| |NPC|39022|
@@ -59,7 +59,7 @@ T Gargantapid |QID|25522| |N|Gus Rustflutter (42.46, 24.29) in Sandsorrow Watch|
 C Darkest Mojo |QID|25026.1| |N|Collect 6 [Darkest Mojo] from Sandfury Zombies (38.82, 23.97) in Sandsorrow Watch| |NPC|44557|
 T Darkest Mojo |QID|25026| |N|Mazoga (42.29, 23.87) in Sandsorrow Watch| |NPC|38927|
 A Secrets in the Oasis |QID|25032| |N|Mazoga (42.29, 23.87) in Sandsorrow Watch| |NPC|38927|
-C Secrets in the Oasis |QID|25032| |N|At the little pool, you have to put your mousecursor over the water until you see the little nut / bolt then click on it (39.07, 35.08) in Abyssal Sands| |OBJ|768|
+C Secrets in the Oasis |QID|25032| |N|At the little pool, you have to put your mouse cursor over the water until you see the little nut / bolt then click on it (39.07, 35.08) in Abyssal Sands| |OBJ|768|
 T Secrets in the Oasis |QID|25032| |N|Trenton Lighthammer (42.45, 24.04) in Sandsorrow Watch| |NPC|7804|
 
 R Lost Rigger Cove |N|Travel to Lost Rigger Cove (65.49, 42.06) (71.84, 45.40)| |QID|24927|
@@ -83,7 +83,7 @@ C Filling Our Pockets |QID|25541.1| |N|Collect 20 [Gold Fillings] from Southsea 
 T Going Off-Task |QID|25534| |N|Megs Dreadshredder (71.87, 45.37) in Lost Rigger Cove| |NPC|38703|
 T Filling Our Pockets |QID|25541| |N|Megs Dreadshredder (71.87, 45.37) in Lost Rigger Cove| |NPC|38703|
 A Captain Dreadbeard |QID|24950| |N|Megs Dreadshredder (71.87, 45.37) in Lost Rigger Cove| |NPC|38703|
-C Captain Dreadbeard |QID|24950.1| |N|Kill Captain Dreadbeard, on the ship. A sea giant will spawn when you kill him (70.15, 53.88) (70.86, 55.58) Southbreak Shore| |NPC|38749|
+C Captain Dreadbeard |QID|24950.1| |N|Kill Captain Dreadbeard on the ship. A sea giant will spawn. Kill it, then finish killing the captain (70.15, 53.88) (70.86, 55.58) Southbreak Shore| |NPC|38749|
 T Captain Dreadbeard |QID|24950| |N|Megs Dreadshredder (71.86, 45.39) in Lost Rigger Cove| |NPC|38703|
 A Bootlegger Outpost |QID|25103| |N|Megs Dreadshredder (71.86, 45.39) in Lost Rigger Cove| |NPC|38703|
 
@@ -104,6 +104,7 @@ A Chicken of the Desert |QID|24933| |N|Zeke Bootscuff (55.64, 60.83) in Bootlegg
 T A Few Good Goblins |QID|25072| |N|Zeke Bootscuff (55.64, 60.83) in Bootlegger Outpost| |NPC|38706|
 A Find OOX-17/TN! |QID|351| |N|The item [OOX-17/TN Distress Beacon] starts this quest. Drops from the mobs around this zone (55.69, 60.90) in Bootlegger Outpost| |U|8623| |O|
 A Gazer Tag |QID|24931| |N|Narain Soothfancy (55.33, 60.16) in Bootlegger Outpost| |NPC|11811|
+N As You Go... |QID|24931| |N||Collect 5 [Ocular Crystals] from Glasshide Basilisks and collect 6 [Hyena Chunks] from Rabid Blisterpaws. Tick this step.|
 C Gazer Tag |QID|24931| |N|Collect 5 [Ocular Crystals] from Glasshide Basilisks (51.49, 61.41) Tanaris| |NPC|5420|
 C Chicken of the Desert |QID|24933| |N|Collect 6 [Hyena Chunks] from Rabid Blisterpaws (54.65, 52.87) Tanaris| |NPC|5427|
 T Chicken of the Desert |QID|24933| |N|Zeke Bootscuff (55.65, 60.78) in Bootlegger Outpost||NPC|38706|
@@ -167,11 +168,11 @@ A The Secrets of Uldum |QID|25069| |N|Examiner Andoren Dawnrise (33.27, 77.02) i
 
 R Ruins of Uldum |N|Travel to Ruins of Uldum (37.60, 78.43) (37.76, 81.59)| |QID|25068|
 C The Crumbling Past |QID|25068.1| |N|Collect 5 [Earthen Jewels] from Sandstone Earthens (37.76, 81.59) Ruins of Uldum| |NPC|38916|
-T The Secrets of Uldum |QID|25069| |N|Antediluvean Chest (37.71, 78.86) Ruins of Uldum| |OBJ|1387|
-A What Lies Within |QID|25070| |N|Antediluvean Chest (37.71, 78.86) Ruins of Uldum| |OBJ|1387|
-C What Lies Within |QID|25070.1| |N|Kill Antechamber Guardian (37.76, 81.59) Ruins of Uldum| |NPC|39077|
-T What Lies Within |QID|25070| |N|Antediluvean Chest (37.71, 78.86) Ruins of Uldum| |OBJ|1387|
-A The Grand Tablet |QID|25107| |N|Antediluvean Chest (37.71, 78.86) Ruins of Uldum| |OBJ|1387|
+T The Secrets of Uldum |QID|25069| |N|Antediluvean Chest (84.45, 43.05) Ruins of Uldum| |OBJ|1387| |Z|720|
+A What Lies Within |QID|25070| |N|Antediluvean Chest (84.45, 43.05) Ruins of Uldum| |OBJ|1387| |Z|720|
+C What Lies Within |QID|25070.1| |N|Kill the Antechamber Guardian (84.45, 43.05) Ruins of Uldum| |NPC|39077| |Z|720|
+T What Lies Within |QID|25070| |N|Antediluvean Chest (84.45, 43.05) Ruins of Uldum| |OBJ|1387| |Z|720|
+A The Grand Tablet |QID|25107| |N|Antediluvean Chest (84.45, 43.05) Ruins of Uldum| |OBJ|1387| |Z|720|
 
 R Dawnrise Expedition |N|Travel to Dawnrise Expedition (33.28, 77.02)| |QID|25067|
 T The Crumbling Past |QID|25068| |N|Examiner Andoren Dawnrise (37.76, 81.59) (33.29, 77.01) in Dawnrise Expedition| |NPC|38922|
